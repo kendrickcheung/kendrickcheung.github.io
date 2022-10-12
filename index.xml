@@ -1,1 +1,18 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Begi</title><link>https://kendrickcheung.github.io/</link><description>Hugo 主题 - FixIt</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1024@lruihao.cn (Kendrick)</managingEditor><webMaster>1024@lruihao.cn (Kendrick)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 11 Oct 2022 16:15:22 +0800</lastBuildDate><atom:link href="https://kendrickcheung.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>【英语晨读】长荣海运年终奖发40个月薪、国际大事</title><link>https://kendrickcheung.github.io/%E8%8B%B1%E8%AF%AD%E6%99%A8%E8%AF%BB%E4%B8%80/</link><pubDate>Tue, 11 Oct 2022 16:15:22 +0800</pubDate><author>Kendrick</author><guid>https://kendrickcheung.github.io/%E8%8B%B1%E8%AF%AD%E6%99%A8%E8%AF%BB%E4%B8%80/</guid><description>长荣海运年终奖发 40 个月薪、国际大事 原文 Evergreen reportedly doles out generous year-end bonuses for employees Evergreen Marine(美[məˈrin]英[məˈriːn]) Corp, the largest container shipping company in Taiwan, reportedly doled out year-end bonuses of</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Begi</title>
+    <link>https://kendrickcheung.github.io/</link>
+    <description>Hugo 主题 - FixIt</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2016337368@qq.cn (Kendrick)</managingEditor>
+      <webMaster>2016337368@qq.cn (Kendrick)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 11 Oct 2022 16:15:22 &#43;0800</lastBuildDate>
+      <atom:link href="https://kendrickcheung.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+  <title>【英语晨读】长荣海运年终奖发40个月薪、国际大事</title>
+  <link>https://kendrickcheung.github.io/%E8%8B%B1%E8%AF%AD%E6%99%A8%E8%AF%BB%E4%B8%80/</link>
+  <pubDate>Tue, 11 Oct 2022 16:15:22 &#43;0800</pubDate>
+  <author>Kendrick</author>
+  <guid>https://kendrickcheung.github.io/%E8%8B%B1%E8%AF%AD%E6%99%A8%E8%AF%BB%E4%B8%80/</guid>
+  <description><![CDATA[【视频】长荣海运年终奖发 40 个月薪、国际大事 原文 Evergreen reportedly doles out generous year-end bonuses for employees 据报道，长荣为员工发放丰厚的年终奖 Evergreen Marine(美[məˈrin]英[mə]]></description>
+</item>
+</channel>
+</rss>

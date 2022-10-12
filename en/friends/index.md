@@ -12,6 +12,6 @@ You could add your FixIt site to this page via [making a PR :(fa-solid fa-code-b
 
 ---
 
-> Author: [Kendrick](https://lruihao.cn)  
+> Author: [Kendrick](https://kendrickcheung.github.io/)  
 > URL: https://kendrickcheung.github.io/en/friends/  
 

@@ -6,6 +6,6 @@
 
 ---
 
-> 作者: [Kendrick](https://lruihao.cn)  
+> 作者: [Kendrick](https://kendrickcheung.github.io/)  
 > URL: https://kendrickcheung.github.io/about/  
 

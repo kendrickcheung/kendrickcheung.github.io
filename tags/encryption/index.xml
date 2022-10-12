@@ -1,1 +1,8 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>加密 - 标签 - Begi</title><link>https://kendrickcheung.github.io/tags/encryption/</link><description>加密 - 标签 - Begi</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1024@lruihao.cn (Kendrick)</managingEditor><webMaster>1024@lruihao.cn (Kendrick)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://kendrickcheung.github.io/tags/encryption/" rel="self" type="application/rss+xml"/></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>加密 - 标签 - Begi</title>
+    <link>https://kendrickcheung.github.io/tags/encryption/</link>
+    <description>加密 - 标签 - Begi</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2016337368@qq.cn (Kendrick)</managingEditor>
+      <webMaster>2016337368@qq.cn (Kendrick)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://kendrickcheung.github.io/tags/encryption/" rel="self" type="application/rss+xml" /></channel>
+</rss>
