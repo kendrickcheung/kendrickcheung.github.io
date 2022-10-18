@@ -9,7 +9,7 @@
 - 系统：*Windows11*
 - 编辑器：*vscode*
 
-#### 🍄 创建项目
+#### 🍄 1. 创建项目
 1. 新建`fuzz`文件夹并用vscode打开
 2. 在根目录`fuzz`下执行命令
 ```shell
@@ -79,7 +79,7 @@ func FuzzReverse(f *testing.F) {
 
 ```
 
-#### 2. 运行代码
+#### 🥕 2. 运行代码
 1. 在终端执行命令：
 ```shell
 go test
