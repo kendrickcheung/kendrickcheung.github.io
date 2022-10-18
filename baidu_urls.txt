@@ -1,3 +1,5 @@
+https://kendrickcheung.github.io/fuzz/
+https://kendrickcheung.github.io/generics/
 https://kendrickcheung.github.io/restfull/
 https://kendrickcheung.github.io/gomodule/
 https://kendrickcheung.github.io/getting-started/

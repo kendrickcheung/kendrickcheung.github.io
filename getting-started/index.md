@@ -10,8 +10,8 @@
 - 编辑器：*vscode*
 
 #### 🍇 1. 创建项目
-1. 新建文件夹learninggo并用vscode打开
-2. 在根目录执行命令：
+1. 新建文件夹`learninggo`并用vscode打开
+2. 在根目录`learninggo`下执行命令：
 ```shell
 go mod init learninggo
 ```
