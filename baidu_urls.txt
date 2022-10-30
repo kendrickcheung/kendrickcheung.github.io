@@ -1,4 +1,4 @@
-https://kendrickcheung.github.io/%E5%A4%A7%E5%AD%A6%E8%AF%AD%E6%96%87/
+https://kendrickcheung.github.io/new/
 https://kendrickcheung.github.io/%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95/
 https://kendrickcheung.github.io/goroutines%E5%92%8Cchannels/
 https://kendrickcheung.github.io/%E6%8E%A5%E5%8F%A3/
