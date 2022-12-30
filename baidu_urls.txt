@@ -1,10 +1,11 @@
+https://kendrickcheung.github.io/%E6%97%A5%E8%AF%AD%E4%BA%94%E5%8D%81%E9%9F%B3/
+https://kendrickcheung.github.io/%E5%8D%95%E8%AF%8D%E5%B7%A9%E5%9B%BA20221222/
 https://kendrickcheung.github.io/%E4%BC%8A%E7%94%B8%E5%9B%AD02/
 https://kendrickcheung.github.io/%E4%BC%8A%E7%94%B8%E5%9B%AD01/
 https://kendrickcheung.github.io/%E7%A2%8E%E7%89%87%E8%8B%B1%E8%AF%AD%E8%AE%B0%E5%BD%9502/
 https://kendrickcheung.github.io/%E7%A2%8E%E7%89%87%E8%8B%B1%E8%AF%AD%E8%AE%B0%E5%BD%9501/
 https://kendrickcheung.github.io/%E9%9A%8F%E7%AC%941/
 https://kendrickcheung.github.io/%E4%B8%87%E5%9C%A3%E8%8A%82%E7%9A%84%E5%8E%86%E5%8F%B2/
-https://kendrickcheung.github.io/new/
 https://kendrickcheung.github.io/%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95/
 https://kendrickcheung.github.io/goroutines%E5%92%8Cchannels/
 https://kendrickcheung.github.io/%E6%8E%A5%E5%8F%A3/
