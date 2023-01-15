@@ -4,7 +4,7 @@
 {{< admonition quote >}}
 本文内容来源于: https://www.youtube.com/watch?v=BQG08i8onKM&list=PLd5-Wp_4tLqbynXBv5hl47SLlN7R-syMO
 
-<!-- {{< youtube BQG08i8onKM >}} -->
+{{< youtube BQG08i8onKM >}}
 {{< /admonition >}}
 
 [`財布`]^(さいふ)なくしたし、[先輩]^(せんぱい)に[怒]^(おこ)られたし、
