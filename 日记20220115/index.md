@@ -1,11 +1,11 @@
-# 【日记】2022年1月15号，阴天，12°
+# 【日记】2023年1月15号，阴天，12°
 
 
 {{< admonition quote >}}
 本文内容来源于: 【chatGPT】-Write a diary at a level suitable for an 8-year-old child.
 {{< /admonition >}}
 
-Today was an amazing day! I woke up and had a yummy breakfast of waffles and strwberries. Then I went to school and learned about different types of animals in science class. We even got to see a video of a lion and a tiger.
+Today was an amazing day! I woke up and had a yummy breakfast of waffles and strawberries. Then I went to school and learned about different types of animals in science class. We even got to see a video of a lion and a tiger.
 
 After school, I went to the park with my best friends. We played on the playground and had a race to see who could run the fastest. I didn't win but it was still so much fun!
 
